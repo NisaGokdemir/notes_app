@@ -20,7 +20,7 @@
     - Click on the delete icon within a note to remove it from the list.
     - The deleted note is removed from localStorage.
     
-<img src="./images/notes_app.gif" alt="Notes App Demo" width="300" height="400">
+<img src="./images/notes_app.gif" alt="Notes App Demo" width="400" height="400">
 
 
 ## Features ✨
@@ -31,7 +31,7 @@
 No special installation is required for this project. Simply download the project files and open the index.html file in a web browser.
 
 ## Live Demo 🌐
-Live Demo: 
+Live Demo: [Notes App](https://notes-app-orpin-alpha.vercel.app/)
 
 ## Contributing 🤝
 Feel free to use, modify, and contribute to the project! If you have any questions or feedback, you can reach me at nisagokdemir@gmail.com Enjoy note-taking!
